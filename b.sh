@@ -2,4 +2,4 @@ ls
 pwd
 mkdir vasanth
 ls
-ls -la
+ls -lrt
